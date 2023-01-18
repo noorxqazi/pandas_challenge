@@ -1,7 +1,7 @@
 # pandas_challenge
 Assignment 4
 
-#Written Analysis 
+# Written Analysis 
 * From this dataset, it is clear that the charter schools performed at a higher success rate compared to the district schools based on the percentage of overall passing students. This is due to a number of factors, but the one that jumped out to me the most is the size of each type of school. It looks like the smaller and mid-sized schools outperformed schools with over 2,000 students by almost 35%. 
 
 
